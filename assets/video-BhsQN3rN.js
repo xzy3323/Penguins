@@ -1,0 +1,1 @@
+import{N as e}from"./navigation-BrNyOxWG.js";import{c as a,a as o,h as t,o as s}from"./index-2G4e1Egm.js";import"./_plugin-vue_export-helper-DlAUqK2U.js";const c={class:"container"},r={class:"navigation"},l={__name:"video",setup(i){return(n,_)=>(s(),a("div",c,[o("div",r,[t(e)])]))}};export{l as default};
